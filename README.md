@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/0ff-Stryst/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/0ff-Stryst/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/0ff-Stryst/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/0ff-Stryst/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/0ff-Stryst/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/0ff-Stryst/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/0ff-Stryst/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/0ff-Stryst/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/0ff-Stryst/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0ff-Stryst/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/0ff-Stryst/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/0ff-Stryst/Leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/0ff-Stryst/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
