@@ -75,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0707-design-linked-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
