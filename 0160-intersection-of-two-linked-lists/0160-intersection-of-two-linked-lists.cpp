@@ -43,8 +43,7 @@ public:
         while( one != two){
             one = one->next;
             two = two->next;
-
-        }  
+        }
 
         return one;
     }
