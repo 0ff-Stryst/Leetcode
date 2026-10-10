@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0ff-Stryst/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/0ff-Stryst/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/0ff-Stryst/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/0ff-Stryst/Leetcode/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/0ff-Stryst/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/0ff-Stryst/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/0ff-Stryst/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/0ff-Stryst/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/0ff-Stryst/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/0ff-Stryst/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
