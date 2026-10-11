@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/0ff-Stryst/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/0ff-Stryst/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0ff-Stryst/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/0ff-Stryst/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/0ff-Stryst/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/0ff-Stryst/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0ff-Stryst/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/0ff-Stryst/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/0ff-Stryst/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0ff-Stryst/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0707-design-linked-list) |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/0ff-Stryst/Leetcode/tree/master/0078-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/0ff-Stryst/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
